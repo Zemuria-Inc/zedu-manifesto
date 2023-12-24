@@ -4,14 +4,14 @@
 
 ## Table of Contents
 
-- [Unleashing the Power of the New Spice - The Path to Species Acceleration](#)
-- [Section 1: Aligning Education with Purpose - The Misallocation of Capital](#)
-- [Section 2: The Power of Equitable Education - Nurturing Child Prodigies for Species Acceleration](#)
-- [Section 3: The Grand Vision - Education's Role in Achieving Kardashev Type 2](#)
-- [Section 4: Breaking the Shackles of a Flawed System - The Crisis in Education](#)
-- [Section 5: The Human-AI Partnership - A New Paradigm in Education](#)
-- [Section 6: Navigating the Learning Web - Unleashing the Power of Personalized Education](#)
-- [Conclusion: Unveiling a New Era of Knowledge](#)
+- [Unleashing the Power of the New Spice - The Path to Species Acceleration](#unleashing-the-power-of-the-new-spice---the-path-to-species-acceleration)
+- [Section 1: Aligning Education with Purpose - The Misallocation of Capital](#section-1-aligning-education-with-purpose---the-misallocation-of-capital)
+- [Section 2: The Power of Equitable Education - Nurturing Child Prodigies for Species Acceleration](#section-2-the-power-of-equitable-education---nurturing-child-prodigies-for-species-acceleration)
+- [Section 3: The Grand Vision - Education's Role in Achieving Kardashev Type 2](#section-3-the-grand-vision---educations-role-in-achieving-kardashev-type-2)
+- [Section 4: Breaking the Shackles of a Flawed System - The Crisis in Education](#section-4-breaking-the-shackles-of-a-flawed-system---the-crisis-in-education)
+- [Section 5: The Human-AI Partnership - A New Paradigm in Education](#section-5-the-human-ai-partnership---a-new-paradigm-in-education)
+- [Section 6: Navigating the Learning Web - Unleashing the Power of Personalized Education](#section-6-navigating-the-learning-web---unleashing-the-power-of-personalized-education)
+- [Conclusion: Unveiling a New Era of Knowledge](#conclusion-unveiling-a-new-era-of-knowledge)
 
 ## Unleashing the Power of the New Spice - The Path to Species Acceleration
 
