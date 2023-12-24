@@ -4,14 +4,14 @@
 
 ## Table of Contents
 
--[Unleashing the Power of the New Spice - The Path to Species Acceleration](#)
--[Section 1: Aligning Education with Purpose - The Misallocation of Capital](#)
--[Section 2: The Power of Equitable Education - Nurturing Child Prodigies for Species Acceleration](#)
--[Section 3: The Grand Vision - Education's Role in Achieving Kardashev Type 2](#)
--[Section 4: Breaking the Shackles of a Flawed System - The Crisis in Education](#)
--[Section 5: The Human-AI Partnership - A New Paradigm in Education](#)
--[Section 6: Navigating the Learning Web - Unleashing the Power of Personalized Education](#)
--[Conclusion: Unveiling a New Era of Knowledge](#)
+- [Unleashing the Power of the New Spice - The Path to Species Acceleration](#)
+- [Section 1: Aligning Education with Purpose - The Misallocation of Capital](#)
+- [Section 2: The Power of Equitable Education - Nurturing Child Prodigies for Species Acceleration](#)
+- [Section 3: The Grand Vision - Education's Role in Achieving Kardashev Type 2](#)
+- [Section 4: Breaking the Shackles of a Flawed System - The Crisis in Education](#)
+- [Section 5: The Human-AI Partnership - A New Paradigm in Education](#)
+- [Section 6: Navigating the Learning Web - Unleashing the Power of Personalized Education](#)
+- [Conclusion: Unveiling a New Era of Knowledge](#)
 
 ## Unleashing the Power of the New Spice - The Path to Species Acceleration
 
@@ -137,7 +137,7 @@ With each click, you uncover a new dimension of knowledge, seamlessly transition
 
 - In the context of GITC, it is the positive contrary to the effects of drugs on spider web-building behavior. Rather than altering or impairing the mind, GITC enhances and amplifies the learning experience. It empowers students to chart their non-linear learning journey, like surfing Wikipedia, celebrating individuality, and equipping them to create their unique educational path.
 
-![Effect of different drugs in spider web building](zedumanifesto1.jpg)
+![Effect of different drugs in spider web building](zedumanifesto1.png)
 
 ### The Guru-in-the-Cloud (GITC) and Personal Radar Graphs:
 
@@ -153,7 +153,7 @@ With each click, you uncover a new dimension of knowledge, seamlessly transition
 
 - Just as a spider weaves its unique web, each student's radar graph tells the story of their journey, mapping their distinctive abilities and potential. It becomes a testament to their growth, individuality, and the boundless possibilities they embrace in their quest for knowledge.
 
-![examples of radar/spider graph](zedumanifesto2.jpg)
+![examples of radar/spider graph](zedumanifesto2.png)
 
 As we venture into the world of Guru-in-the-Cloud, let's remember that it is within the learning web's rich tapestry that GITC thrives. Together, they herald a future where education is not a linear path but an intricate web of discovery, where learning is not a chore but an adventure, and where each learner is not a statistic but a celebrated individual on their journey of enlightenment.
 
