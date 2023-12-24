@@ -1,0 +1,2 @@
+# zedu-manifesto
+Zedu Manifesto
